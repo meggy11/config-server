@@ -8,4 +8,4 @@ eureka:
 		hostname: localhost
 		
 temperature:
-	unit: "Celsius"
+	unit: "Kelvin"
